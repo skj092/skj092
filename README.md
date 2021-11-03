@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonu</h1>
-<h3 align="center">Passionate about Data Science in general and Machine Leaning in perticular.</h3>
+<h3 align="center">Passionate about Data Science and Machine Leaning.</h3>
 
 - 🌱 I’m currently learning **Computer Vision and NLP**
 
