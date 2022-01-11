@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sonu</h1>
 <h3 align="center">Deep Learning Student</h3>
+<h3>About Me</h3>
 
 - 🌱 I’m currently learning **Computer Vision and NLP**
-
 - 📫 How to reach me **sonujha092@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
