@@ -9,10 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/sonu_kumar_jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sonu_kumar_jha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sonu-jha-15022916b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonu-jha-15022916b" height="30" width="40" /></a>
-<a href="https://kaggle.com/sonujha090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sonujha090" height="30" width="40" /></a>
 <a href="https://instagram.com/pointless_sheep/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pointless_sheep" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sonujha092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sonujha092" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sonu517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sonu517" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
