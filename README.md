@@ -15,8 +15,6 @@
 * Reading
 * Science and Technology
 * Adventure Activities
-<h1 align="center"></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skj092&label=Profile%20views&color=0e75b6&style=flat" alt="skj092" /> </p>
 
 ![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=skj092&show_icons=true&theme=radical)
 <h3 align="left">Connect with me:</h3>
