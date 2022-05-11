@@ -22,5 +22,5 @@
 ![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=skj092&show_icons=true&theme=radical)
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/sonu_kumar_jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sonu_kumar_jha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sonu-jha-15022916b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonu-jha-15022916b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sonujha092/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonu-jha-15022916b" height="30" width="40" /></a>
 <a href="https://instagram.com/pointless_sheep/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pointless_sheep" height="30" width="40" /></a>
